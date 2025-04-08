@@ -1,4 +1,6 @@
 SEMANA DO ZERO AO PROGRAMADOR CONTRATADO
+
+por Dev em Dobro
   
 🤓 Nas **aulas** de **segunda, quarta e sexta**, vocês vão ficar por dentro de vários assuntos relevantes sobre a área da programação e mercado de trabalho!
 
