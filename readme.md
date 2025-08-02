@@ -4,7 +4,7 @@ Conteúdos, mentorias, projetos e desafios da escola de programação dev em dob
 
 ## Projeto 
 
-Adaptar esse projeto para exibir o conteúdo de cada dia em um botão
+Adaptar esse projeto de *aplicação web para apresentar conteúdos com 5 botões* para exibir o conteúdo de cada dia em um botão.
 
 ### SEMANA DO ZERO AO PROGRAMADOR CONTRATADO
 
